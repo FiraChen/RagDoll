@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyDoll</string>
+    <string name="reset">Reset</string>
+    <string name="about">About</string>
+</resources>
